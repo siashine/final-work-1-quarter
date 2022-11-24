@@ -27,3 +27,6 @@ void PrintArray(string[] array)
   }
   Console.WriteLine();
 }
+
+MassivPhrases(array, array1);
+PrintArray(array1);
